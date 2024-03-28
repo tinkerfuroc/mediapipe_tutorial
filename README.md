@@ -1,5 +1,7 @@
-# 3d_pose_estimation
-面向AIoT实验系统的设计与开发——《AIoT + 姿态检测》
+# pose estimation with mediapipe
+mediapipe是一个开源的机器学习框架，可以用来做pose estimation，即识别人体的关节和手部的位置。
+
+本项目基于mediapipe，用python实现了简单的pose estimation功能。
 
 ## 文件描述
 * advanced_camera.py: 高阶（？）摄像头实时检测（实时处理，并给关键点添加颜色、改变大小）
