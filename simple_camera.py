@@ -2,8 +2,6 @@
 import cv2
 # 导入mediapipe
 import mediapipe as mp
-# 导入python绘图：matplotlib.pyplot
-import matplotlib.pyplot as plt
 
 # 导入pose solution
 mp_pose = mp.solutions.pose
